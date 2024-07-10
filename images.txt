@@ -1,5 +1,5 @@
 nginx
-nacos
+nacos/nacos-server
 rabbitmq:3.8-management
 redis
 mysql:8.1.0
